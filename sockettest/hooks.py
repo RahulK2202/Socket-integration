@@ -1,8 +1,8 @@
 app_name = "sockettest"
 app_title = "socket test"
-app_publisher = "rahul@anther.tech"
+app_publisher = "Anthertech"
 app_description = "test"
-app_email = "rahul@anther.tech"
+app_email = "test@anther.tech"
 app_license = "mit"
 
 # Apps
